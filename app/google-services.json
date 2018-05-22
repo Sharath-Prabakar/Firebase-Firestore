@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708243566427",
+    "firebase_url": "https://fir-70fc7.firebaseio.com",
+    "project_id": "fir-70fc7",
+    "storage_bucket": "fir-70fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708243566427:android:b6452ef8859724f2",
+        "android_client_info": {
+          "package_name": "com.thadaladi.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708243566427-41vui1hcjo8avcpltok85pp1b7gcd41j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thadaladi.firebase",
+            "certificate_hash": "23d36c05ef63c6f6811c7ebc751e15b47f75a9f0"
+          }
+        },
+        {
+          "client_id": "708243566427-26rrpg4khdhhtq2v6e9mkr3ukm6p93di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLptjo_CL_qTfGcMWtgrv_V_NdTV9qa-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708243566427-26rrpg4khdhhtq2v6e9mkr3ukm6p93di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Firebase</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="google_title_text">Google Sign In</string>
+    <string name="sign_out">Sign Out!</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="loading">Loading…</string>
+    <string name="progress_downloading">Downloading…</string>
+    <string name="progress_uploading">Uploading…</string>
+    <string name="progress_auth">Signing In…</string>
+    <string name="success">Success</string>
+    <string name="upload_success">Upload finished</string>
+    <string name="upload_failure">Upload failed</string>\
+
+    <string name="download_success">Download finished</string>
+    <string name="download_failure">Download failure</string>
+</resources>
