@@ -1,2 +1,3 @@
 # Firebase-Firestore
-A simple Android application to upload and download files from Firebase Cloud easily.
+The Android application uses Firebase to store the files and Firestore to store the filenames.
+The code is simple and easy to understand.
